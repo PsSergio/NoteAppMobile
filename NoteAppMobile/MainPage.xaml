@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NoteAppMobile.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <Image
+                Source="logo_with_letter"
+                HorizontalOptions="Center"
+            />
+
+            <Label
+                Text="In NoteFast, you can make notes easily and quickly.
+                      Here you can choose between saving to a file or just writing in the app."
+                HorizontalOptions="Center"
+            />
+
+            <Button
+                Text="Make Notes!"
+            />
+                
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
+

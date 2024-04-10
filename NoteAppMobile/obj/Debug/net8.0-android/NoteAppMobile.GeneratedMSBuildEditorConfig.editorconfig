@@ -12,60 +12,72 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NoteAppMobile
-build_property.ProjectDir = /Users/paulosergio/Documents/Mobile /NoteAppMobile/NoteAppMobile/
+build_property.ProjectDir = G:\Tecnico\PAM\Projetos Escola\NoteApp\NoteAppMobile\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[/Users/paulosergio/Documents/Mobile /NoteAppMobile/NoteAppMobile/AboutPage.xaml]
+[G:/Tecnico/PAM/Projetos Escola/NoteApp/NoteAppMobile/AboutPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NoteAppMobile.AboutPage.xaml
 build_metadata.AdditionalFiles.TargetPath = AboutPage.xaml
 build_metadata.AdditionalFiles.RelativePath = AboutPage.xaml
 
-[/Users/paulosergio/Documents/Mobile /NoteAppMobile/NoteAppMobile/App.xaml]
+[G:/Tecnico/PAM/Projetos Escola/NoteApp/NoteAppMobile/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NoteAppMobile.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[/Users/paulosergio/Documents/Mobile /NoteAppMobile/NoteAppMobile/AppShell.xaml]
+[G:/Tecnico/PAM/Projetos Escola/NoteApp/NoteAppMobile/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NoteAppMobile.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[/Users/paulosergio/Documents/Mobile /NoteAppMobile/NoteAppMobile/FilesVariationPage.xaml]
+[G:/Tecnico/PAM/Projetos Escola/NoteApp/NoteAppMobile/Components/DraftCard.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NoteAppMobile.Components.DraftCard.xaml
+build_metadata.AdditionalFiles.TargetPath = Components\DraftCard.xaml
+build_metadata.AdditionalFiles.RelativePath = Components\DraftCard.xaml
+
+[G:/Tecnico/PAM/Projetos Escola/NoteApp/NoteAppMobile/Components/TitleNotesAndFilesPages.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NoteAppMobile.Components.TitleNotesAndFilesPages.xaml
+build_metadata.AdditionalFiles.TargetPath = Components\TitleNotesAndFilesPages.xaml
+build_metadata.AdditionalFiles.RelativePath = Components\TitleNotesAndFilesPages.xaml
+
+[G:/Tecnico/PAM/Projetos Escola/NoteApp/NoteAppMobile/FilesVariationPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NoteAppMobile.FilesVariationPage.xaml
 build_metadata.AdditionalFiles.TargetPath = FilesVariationPage.xaml
 build_metadata.AdditionalFiles.RelativePath = FilesVariationPage.xaml
 
-[/Users/paulosergio/Documents/Mobile /NoteAppMobile/NoteAppMobile/MainPage.xaml]
+[G:/Tecnico/PAM/Projetos Escola/NoteApp/NoteAppMobile/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NoteAppMobile.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[/Users/paulosergio/Documents/Mobile /NoteAppMobile/NoteAppMobile/NotePage.xaml]
+[G:/Tecnico/PAM/Projetos Escola/NoteApp/NoteAppMobile/NotePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NoteAppMobile.NotePage.xaml
 build_metadata.AdditionalFiles.TargetPath = NotePage.xaml
 build_metadata.AdditionalFiles.RelativePath = NotePage.xaml
 
-[/Users/paulosergio/Documents/Mobile /NoteAppMobile/NoteAppMobile/NotesVariationPage.xaml]
+[G:/Tecnico/PAM/Projetos Escola/NoteApp/NoteAppMobile/NotesVariationPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NoteAppMobile.NotesVariationPage.xaml
 build_metadata.AdditionalFiles.TargetPath = NotesVariationPage.xaml
 build_metadata.AdditionalFiles.RelativePath = NotesVariationPage.xaml
 
-[/Users/paulosergio/Documents/Mobile /NoteAppMobile/NoteAppMobile/Resources/Styles/Colors.xaml]
+[G:/Tecnico/PAM/Projetos Escola/NoteApp/NoteAppMobile/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NoteAppMobile.Resources.Styles.Colors.xaml
-build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
-build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[/Users/paulosergio/Documents/Mobile /NoteAppMobile/NoteAppMobile/Resources/Styles/Styles.xaml]
+[G:/Tecnico/PAM/Projetos Escola/NoteApp/NoteAppMobile/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NoteAppMobile.Resources.Styles.Styles.xaml
-build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
-build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

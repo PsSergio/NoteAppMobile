@@ -6,17 +6,23 @@
     xmlns:local="clr-namespace:NoteAppMobile"
     Shell.FlyoutBehavior="Disabled"
     Title="NoteAppMobile"
+    
     >
 
     <TabBar>
 
      
         <ShellContent
+            
+            Title="Home"
             Icon="home_icon"
             ContentTemplate="{DataTemplate local:MainPage}"
-            Route="MainPage" />
+            Route="MainPage" 
+            />
         
         <Tab
+            
+            Title="Note"
             Icon="pencil_icon">
             
             <ShellContent
@@ -34,6 +40,7 @@
         
 
         <ShellContent
+            Title="Credits"
             Icon="about_icon"
             ContentTemplate="{DataTemplate local:AboutPage}"
             Route="AboutPage" />

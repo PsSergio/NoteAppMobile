@@ -5,9 +5,10 @@
              xmlns:components="clr-namespace:NoteAppMobile.Components"
              Shell.NavBarIsVisible="false"
              >
+
     <VerticalStackLayout>
 
-        <components:TitleNotesAndFilesPages/>
+        <components:TitleNotesAndFilesPages ViewText="Edit your notes!"/>
 
         <components:DraftCard/>
     </VerticalStackLayout>

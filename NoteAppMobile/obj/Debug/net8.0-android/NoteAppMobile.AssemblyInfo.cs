@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NoteAppMobile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+489ce6044d2f449e0046bc29db0eaca897d1c150")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8c7d062473a910d92d2ca7fbb1c883c0f43e12a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("NoteAppMobile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NoteAppMobile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
